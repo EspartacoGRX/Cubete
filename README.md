@@ -1,4 +1,4 @@
-# Cubo
+# Cubete
 
 To make this funtional in Linux Terminal:
 
