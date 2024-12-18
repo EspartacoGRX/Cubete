@@ -10,7 +10,7 @@ Then:
 ```bash
     make
 ```
-You will have now another file named "cube.o", now put this command and with this you will see my project
+Check you have another file named "cube.o" with `ls`, now put this command and enjoy :)
 ```bash
     ./cube.o
 ```
